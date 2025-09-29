@@ -1,0 +1,853 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC270B930F43F72A953198B77EB21CC6',
+    participant: undefined
+  },
+  messageTimestamp: 1759163023,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '.',
+  from: '573206763335'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC82DD31144836D13D20FE52E3FA1B22',
+    participant: undefined
+  },
+  messageTimestamp: 1759163031,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_844059e2-34fa-402a-baf3-5254ecff2a33',
+  keyword: 'key_56cbe448-e4f0-46d6-9e22-b9d3c6ed75fc',
+  answer: '☀️ ¡Hola! Soy Lety, tu asistente del Soporte Fotovoltaico de Energitel. ¿En qué puedo ayudarte? 🤖. 📢También puedes conocernos más y seguir nuestras novedades en:\n' +
+    ' 📸Instagram: https://acortar.link/#google_vignette\n' +
+    ' 🌐Facebook: https://acortar.link/MyfnS5\n' +
+    ' ▶️YouTube: https://www.youtube.com/@energitels.a.s235\n' +
+    ' 🖥️Sitio web: https://energitelsolar.com/ 💼LinkedIn: https://www.linkedin.com/in/energitel-s-a-s-360b0814a/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9b45b2fd787eaa3a97b005192e9a5290'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  keyword: 'ans_844059e2-34fa-402a-baf3-5254ecff2a33',
+  answer: 'Por favor selecciona una opción: \n' +
+    '1. 🌞 Soporte Técnico por fallas en inversores  \n' +
+    '2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n' +
+    '3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n' +
+    '4. 🔧 Agendar Mantenimiento',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0342247350d54f4c26b4a1c25a73f47e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACE854B7D1F7144BB215804A99A53493',
+    participant: undefined
+  },
+  messageTimestamp: 1759163036,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '.',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC345E9570A51E8CB744B694DFA11BBB',
+    participant: undefined
+  },
+  messageTimestamp: 1759163041,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'G',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'G',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACA195DC2D152779927D3F010D9E5C06',
+    participant: undefined
+  },
+  messageTimestamp: 1759163046,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '8',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '8',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC3AB1B7935F3FA4A5ABA1943416C1DA',
+    participant: undefined
+  },
+  messageTimestamp: 1759163053,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACBBB3690451056474E2885F7FE8B5FA',
+    participant: undefined
+  },
+  messageTimestamp: 1759163058,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a8170e15-5d93-44c8-bed8-310f18fe96c8',
+  keyword: 'ans_257c32fd-171d-499c-977a-ae343af34b97',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd72d8556fe8af7cfad40f9ccfa63c6c7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACAA9E7BBE026CB1379730B955F4C439',
+    participant: undefined
+  },
+  messageTimestamp: 1759163078,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a2ee8dad-15c9-4568-8e80-20769cfe35fc',
+  keyword: 'ans_4477da68-9d2b-4309-a35f-c4740048b042',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '73cd6c91249caab741f7fde8d019829c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACA301CFFAE673205650EC6F8D6E1C51',
+    participant: undefined
+  },
+  messageTimestamp: 1759163082,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACA485925B438457B9805E3F6BF3CDDB',
+    participant: undefined
+  },
+  messageTimestamp: 1759163087,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a8170e15-5d93-44c8-bed8-310f18fe96c8',
+  keyword: 'ans_257c32fd-171d-499c-977a-ae343af34b97',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd72d8556fe8af7cfad40f9ccfa63c6c7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC840B9D98BDB8E6438E70953E685DEB',
+    participant: undefined
+  },
+  messageTimestamp: 1759163091,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_acaabd38-c248-4e6b-9853-85af613e9720',
+  keyword: 'ans_f07d158e-d753-452f-a57d-f8ed37aa78b7',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd3349913e4d0e0086f9efcffb1f95668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACD31896C52378317DE7F63A609B1CA2',
+    participant: undefined
+  },
+  messageTimestamp: 1759163098,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4a3706bf-6c47-4db6-b01b-08330e38d200',
+  keyword: 'ans_03162038-9ebb-4fb3-9118-e149a7331d8b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3f96697056874625734bb4ca025aa807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC6CDC580E5DA7C62829FB316FEFF3BE',
+    participant: undefined
+  },
+  messageTimestamp: 1759163104,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_acaabd38-c248-4e6b-9853-85af613e9720',
+  keyword: 'ans_f07d158e-d753-452f-a57d-f8ed37aa78b7',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd3349913e4d0e0086f9efcffb1f95668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC95271DC3B2DDA6658E672CEA51BCC1',
+    participant: undefined
+  },
+  messageTimestamp: 1759163109,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a8170e15-5d93-44c8-bed8-310f18fe96c8',
+  keyword: 'ans_257c32fd-171d-499c-977a-ae343af34b97',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd72d8556fe8af7cfad40f9ccfa63c6c7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC855B8F00E2B6CB0C8A8052F4B41674',
+    participant: undefined
+  },
+  messageTimestamp: 1759163116,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACAFE24AA2E2E04DD3AEDF09090283DE',
+    participant: undefined
+  },
+  messageTimestamp: 1759163119,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACB5F9E9E725686E2971A195C9DEFFB0',
+    participant: undefined
+  },
+  messageTimestamp: 1759163124,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa9a2e1e-db2c-4f12-a7ed-9ef684f1452d',
+  keyword: 'ans_3926b406-c178-4cd0-8102-265fe90eaf31',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f1c442d9d465b91609fb70b4b0ef100a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC7D89988457CFC23E546854BC281DEA',
+    participant: undefined
+  },
+  messageTimestamp: 1759163129,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Gracias',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3926b406-c178-4cd0-8102-265fe90eaf31',
+  keyword: 'key_f82d062f-3f58-45c3-9cec-9b37fabc817e',
+  answer: '¿Deseas agendar mantenimiento? (Sí / No)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '602595920bf6bacb013c2c14f9795a8d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACAF913A15F187197A4C609E0CE46E8C',
+    participant: undefined
+  },
+  messageTimestamp: 1759163133,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa9a2e1e-db2c-4f12-a7ed-9ef684f1452d',
+  keyword: 'ans_3926b406-c178-4cd0-8102-265fe90eaf31',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f1c442d9d465b91609fb70b4b0ef100a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'ACBF8F53585FBA97C69B33DBF49275E6',
+    participant: undefined
+  },
+  messageTimestamp: 1759163137,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_844059e2-34fa-402a-baf3-5254ecff2a33',
+  keyword: 'key_56cbe448-e4f0-46d6-9e22-b9d3c6ed75fc',
+  answer: '☀️ ¡Hola! Soy Lety, tu asistente del Soporte Fotovoltaico de Energitel. ¿En qué puedo ayudarte? 🤖. 📢También puedes conocernos más y seguir nuestras novedades en:\n' +
+    ' 📸Instagram: https://acortar.link/#google_vignette\n' +
+    ' 🌐Facebook: https://acortar.link/MyfnS5\n' +
+    ' ▶️YouTube: https://www.youtube.com/@energitels.a.s235\n' +
+    ' 🖥️Sitio web: https://energitelsolar.com/ 💼LinkedIn: https://www.linkedin.com/in/energitel-s-a-s-360b0814a/',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9b45b2fd787eaa3a97b005192e9a5290'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  keyword: 'ans_844059e2-34fa-402a-baf3-5254ecff2a33',
+  answer: 'Por favor selecciona una opción: \n' +
+    '1. 🌞 Soporte Técnico por fallas en inversores  \n' +
+    '2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n' +
+    '3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n' +
+    '4. 🔧 Agendar Mantenimiento',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0342247350d54f4c26b4a1c25a73f47e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206763335@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC4E11C2CC41BC3ADA3063F9F8E90191',
+    participant: undefined
+  },
+  messageTimestamp: 1759163144,
+  pushName: 'Ospina',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '573206763335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54',
+  keyword: 'ans_45120d93-ad25-426b-bae9-cddf9310736b',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0b5e7d9d4c5bec305f97d5209b6ab667'
+}

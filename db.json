@@ -1,0 +1,1116 @@
+[
+  {
+    "ref": "5c6ee445-eafb-4718-8563-7a5aa3a2bbcd",
+    "keyword": "8892e95b25ade4659c85e2a5d6285c58",
+    "answer": ".",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "e6875c9213d714f91461bee08f9864d5"
+  },
+  {
+    "ref": "e415c7a7-33ad-4caf-a20d-54a80aa6b8a0",
+    "keyword": "e6875c9213d714f91461bee08f9864d5",
+    "answer": "Hola",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "keyword": "key_56cbe448-e4f0-46d6-9e22-b9d3c6ed75fc",
+    "answer": "☀️ ¡Hola! Soy Lety, tu asistente del Soporte Fotovoltaico de Energitel. ¿En qué puedo ayudarte? 🤖. 📢También puedes conocernos más y seguir nuestras novedades en:\n 📸Instagram: https://acortar.link/#google_vignette\n 🌐Facebook: https://acortar.link/MyfnS5\n ▶️YouTube: https://www.youtube.com/@energitels.a.s235\n 🖥️Sitio web: https://energitelsolar.com/ 💼LinkedIn: https://www.linkedin.com/in/energitel-s-a-s-360b0814a/",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9b45b2fd787eaa3a97b005192e9a5290",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "4ba314a9-9c38-439f-80e7-aa9a128c2900",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": ".",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "e6875c9213d714f91461bee08f9864d5"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "116167fc-bb8f-430f-b45a-09a325b36b84",
+    "keyword": null,
+    "answer": "❌ Por favor escribe \"1\", \"2\", \"3\" o \"4\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "c6755de97a6ce7818425d975c5064471"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "45916ff5-de73-48b1-b523-d70b6dc6c9da",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "G",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "705e6c0f5743bcb88b5eac5b2d050936"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "7faa5589-66c3-4bdc-bc27-1a2869444991",
+    "keyword": null,
+    "answer": "❌ Por favor escribe \"1\", \"2\", \"3\" o \"4\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "c6755de97a6ce7818425d975c5064471"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "023f6bae-8184-4301-a6f5-64a3116c758e",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "8",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "ad0fe515710a36c1342447aa4310b0ea"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "aed88673-4df7-4b82-9b73-e95fbbec673b",
+    "keyword": null,
+    "answer": "❌ Por favor escribe \"1\", \"2\", \"3\" o \"4\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "c6755de97a6ce7818425d975c5064471"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "fcebfffc-2b43-4f63-888b-8b6db47a5a00",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "1",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_327ab7b1-85a4-427f-909b-6a2119cb8f6e",
+    "keyword": "key_169902e6-8b62-46d5-945d-e79b12912564",
+    "answer": "Seleccionaste Soporte Técnico.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "38a21c94d91a886efcf8f5a3258bc6fd",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_2de19b9f-5830-4ef6-8f22-01039b021e46",
+    "keyword": "ans_327ab7b1-85a4-427f-909b-6a2119cb8f6e",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bf8b686620e5149ad81335a15a848fc7",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_257c32fd-171d-499c-977a-ae343af34b97",
+    "keyword": "key_0dafb6e9-99ad-4010-ae96-36c5b928128d",
+    "answer": "Selecciona una opción:\n1️⃣ Soporte Técnico por fallas\n2️⃣ Ayuda con configuración\n3️⃣ Hablar con un asesor\n4️⃣ 🔙 Volver",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d3c6b2d017401bd8d257e20cd9808b53",
+    "from": "573206763335"
+  },
+  {
+    "ref": "c9fda33b-0129-452e-9eb4-ca96408cb833",
+    "keyword": "d3c6b2d017401bd8d257e20cd9808b53",
+    "answer": "3",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_a8170e15-5d93-44c8-bed8-310f18fe96c8",
+    "keyword": "ans_257c32fd-171d-499c-977a-ae343af34b97",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d72d8556fe8af7cfad40f9ccfa63c6c7",
+    "from": "573206763335"
+  },
+  {
+    "ref": "cb9e2adf-743a-40b0-9ec6-877bd2f3e761",
+    "keyword": null,
+    "answer": "📨 Un asesor se comunicará contigo en breve. También puedes enviar un ticket: https://acortar.link/R1M3xs",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "57fbe3fd699277cbb64e3c49dc072f8e"
+  },
+  {
+    "ref": "ans_4477da68-9d2b-4309-a35f-c4740048b042",
+    "keyword": "key_26c15510-6b7a-49ce-9e19-93d27f7b27e1",
+    "answer": "¿Deseas más ayuda? (Sí / No)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "7bad1c98ab25d9167e2a3fe6dff5cef0",
+    "from": "573206763335"
+  },
+  {
+    "ref": "91ba4aba-7a8c-4337-b600-e9c15da31ab9",
+    "keyword": "7bad1c98ab25d9167e2a3fe6dff5cef0",
+    "answer": "Si",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "611b2bffc5c8bf7a02f45d2060b32e20"
+  },
+  {
+    "ref": "ans_a2ee8dad-15c9-4568-8e80-20769cfe35fc",
+    "keyword": "ans_4477da68-9d2b-4309-a35f-c4740048b042",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "73cd6c91249caab741f7fde8d019829c",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "keyword": "key_56cbe448-e4f0-46d6-9e22-b9d3c6ed75fc",
+    "answer": "☀️ ¡Hola! Soy Lety, tu asistente del Soporte Fotovoltaico de Energitel. ¿En qué puedo ayudarte? 🤖. 📢También puedes conocernos más y seguir nuestras novedades en:\n 📸Instagram: https://acortar.link/#google_vignette\n 🌐Facebook: https://acortar.link/MyfnS5\n ▶️YouTube: https://www.youtube.com/@energitels.a.s235\n 🖥️Sitio web: https://energitelsolar.com/ 💼LinkedIn: https://www.linkedin.com/in/energitel-s-a-s-360b0814a/",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9b45b2fd787eaa3a97b005192e9a5290",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "d00d6f63-ac7b-4732-a898-78bccb3de5bb",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "1",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_327ab7b1-85a4-427f-909b-6a2119cb8f6e",
+    "keyword": "key_169902e6-8b62-46d5-945d-e79b12912564",
+    "answer": "Seleccionaste Soporte Técnico.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "38a21c94d91a886efcf8f5a3258bc6fd",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_2de19b9f-5830-4ef6-8f22-01039b021e46",
+    "keyword": "ans_327ab7b1-85a4-427f-909b-6a2119cb8f6e",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bf8b686620e5149ad81335a15a848fc7",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_257c32fd-171d-499c-977a-ae343af34b97",
+    "keyword": "key_0dafb6e9-99ad-4010-ae96-36c5b928128d",
+    "answer": "Selecciona una opción:\n1️⃣ Soporte Técnico por fallas\n2️⃣ Ayuda con configuración\n3️⃣ Hablar con un asesor\n4️⃣ 🔙 Volver",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d3c6b2d017401bd8d257e20cd9808b53",
+    "from": "573206763335"
+  },
+  {
+    "ref": "d014a4ab-3a60-495d-acf1-5772b354bd5d",
+    "keyword": "d3c6b2d017401bd8d257e20cd9808b53",
+    "answer": "1",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_a8170e15-5d93-44c8-bed8-310f18fe96c8",
+    "keyword": "ans_257c32fd-171d-499c-977a-ae343af34b97",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d72d8556fe8af7cfad40f9ccfa63c6c7",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_f07d158e-d753-452f-a57d-f8ed37aa78b7",
+    "keyword": "key_8723a514-ba34-42c2-8732-d3f95b351479",
+    "answer": "¿Qué tipo de inversor estás utilizando? \n1. Solis\n2. Livoltek\n3. 🔙 Volver",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "05cecff76ab6408c61441d8efe8adf2e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "e2a5a13a-caa0-4c8f-95d7-6d2e0ba156c7",
+    "keyword": "05cecff76ab6408c61441d8efe8adf2e",
+    "answer": "2",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_acaabd38-c248-4e6b-9853-85af613e9720",
+    "keyword": "ans_f07d158e-d753-452f-a57d-f8ed37aa78b7",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d3349913e4d0e0086f9efcffb1f95668",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_36e0b1ce-2500-43ea-a582-9c6ab90de1d2",
+    "keyword": "key_8e87c77a-ccca-453f-b1d9-ba05348e35d2",
+    "answer": "Elegiste soporte para inversores Livoltek.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6a53c71414f418dbbf63a94f68316b85",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_03162038-9ebb-4fb3-9118-e149a7331d8b",
+    "keyword": "ans_36e0b1ce-2500-43ea-a582-9c6ab90de1d2",
+    "answer": "Elige una opción:\n1. Manuales y descarga\n2. Alarmas / códigos de error\n3. Otro problema (enviar un ticket)\n4. 🔙 Volver",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "66e261b20d1dbc0cb4946b5f59c39d46",
+    "from": "573206763335"
+  },
+  {
+    "ref": "d90846df-c802-4d2c-a5a1-b3cadb3d3f7e",
+    "keyword": "66e261b20d1dbc0cb4946b5f59c39d46",
+    "answer": "4",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "e8139b7fa2fbc1b48f247924f8ad1961"
+  },
+  {
+    "ref": "ans_4a3706bf-6c47-4db6-b01b-08330e38d200",
+    "keyword": "ans_03162038-9ebb-4fb3-9118-e149a7331d8b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "3f96697056874625734bb4ca025aa807",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_f07d158e-d753-452f-a57d-f8ed37aa78b7",
+    "keyword": "key_8723a514-ba34-42c2-8732-d3f95b351479",
+    "answer": "¿Qué tipo de inversor estás utilizando? \n1. Solis\n2. Livoltek\n3. 🔙 Volver",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "05cecff76ab6408c61441d8efe8adf2e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "8513934e-b2d8-47a6-9b1f-5792ec71df67",
+    "keyword": "05cecff76ab6408c61441d8efe8adf2e",
+    "answer": "3",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "7af65864494b12f0f7ef00589f4d3979"
+  },
+  {
+    "ref": "ans_acaabd38-c248-4e6b-9853-85af613e9720",
+    "keyword": "ans_f07d158e-d753-452f-a57d-f8ed37aa78b7",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d3349913e4d0e0086f9efcffb1f95668",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_257c32fd-171d-499c-977a-ae343af34b97",
+    "keyword": "key_0dafb6e9-99ad-4010-ae96-36c5b928128d",
+    "answer": "Selecciona una opción:\n1️⃣ Soporte Técnico por fallas\n2️⃣ Ayuda con configuración\n3️⃣ Hablar con un asesor\n4️⃣ 🔙 Volver",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "d3c6b2d017401bd8d257e20cd9808b53",
+    "from": "573206763335"
+  },
+  {
+    "ref": "440cf961-b813-4ae0-b565-c31e34d557c8",
+    "keyword": "d3c6b2d017401bd8d257e20cd9808b53",
+    "answer": "4",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "e8139b7fa2fbc1b48f247924f8ad1961"
+  },
+  {
+    "ref": "ans_a8170e15-5d93-44c8-bed8-310f18fe96c8",
+    "keyword": "ans_257c32fd-171d-499c-977a-ae343af34b97",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d72d8556fe8af7cfad40f9ccfa63c6c7",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "keyword": "key_56cbe448-e4f0-46d6-9e22-b9d3c6ed75fc",
+    "answer": "☀️ ¡Hola! Soy Lety, tu asistente del Soporte Fotovoltaico de Energitel. ¿En qué puedo ayudarte? 🤖. 📢También puedes conocernos más y seguir nuestras novedades en:\n 📸Instagram: https://acortar.link/#google_vignette\n 🌐Facebook: https://acortar.link/MyfnS5\n ▶️YouTube: https://www.youtube.com/@energitels.a.s235\n 🖥️Sitio web: https://energitelsolar.com/ 💼LinkedIn: https://www.linkedin.com/in/energitel-s-a-s-360b0814a/",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9b45b2fd787eaa3a97b005192e9a5290",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "95b70f6c-9f44-4286-b93d-fea9bdd3fa47",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "5",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "d2b414a4bc0b3490276097c7513b4c8c"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "50268ff5-2f90-4329-a917-904f427ec2a8",
+    "keyword": null,
+    "answer": "❌ Por favor escribe \"1\", \"2\", \"3\" o \"4\".",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "c6755de97a6ce7818425d975c5064471"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "361a666c-7b5b-4cfb-abc9-cc2f6e6cb4f5",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "4",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "e8139b7fa2fbc1b48f247924f8ad1961"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_3926b406-c178-4cd0-8102-265fe90eaf31",
+    "keyword": "key_f82d062f-3f58-45c3-9cec-9b37fabc817e",
+    "answer": "¿Deseas agendar mantenimiento? (Sí / No)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "602595920bf6bacb013c2c14f9795a8d",
+    "from": "573206763335"
+  },
+  {
+    "ref": "6cf14119-bb40-4d71-a808-be1e4217f923",
+    "keyword": "602595920bf6bacb013c2c14f9795a8d",
+    "answer": "Si",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "611b2bffc5c8bf7a02f45d2060b32e20"
+  },
+  {
+    "ref": "ans_fa9a2e1e-db2c-4f12-a7ed-9ef684f1452d",
+    "keyword": "ans_3926b406-c178-4cd0-8102-265fe90eaf31",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f1c442d9d465b91609fb70b4b0ef100a",
+    "from": "573206763335"
+  },
+  {
+    "ref": "9e7c1e1f-40b1-4922-8f92-6f788861138e",
+    "keyword": null,
+    "answer": "📅 Por favor envía un ticket: https://acortar.link/R1M3xs.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "0e6dbf72b5bc68db31cefd922579d258"
+  },
+  {
+    "ref": "3c20b39e-b408-459a-9df2-3f7a8db66b81",
+    "keyword": "f1c442d9d465b91609fb70b4b0ef100a",
+    "answer": "Gracias",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "3226ec288e2932f3764e3bb27096c694"
+  },
+  {
+    "ref": "ans_3926b406-c178-4cd0-8102-265fe90eaf31",
+    "keyword": "key_f82d062f-3f58-45c3-9cec-9b37fabc817e",
+    "answer": "¿Deseas agendar mantenimiento? (Sí / No)",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "602595920bf6bacb013c2c14f9795a8d",
+    "from": "573206763335"
+  },
+  {
+    "ref": "834b0027-28a5-42a4-9cb1-7c4cf1fb2a2e",
+    "keyword": "602595920bf6bacb013c2c14f9795a8d",
+    "answer": "No",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "8e18a7e92a2a646d2d79e385a3a290d6"
+  },
+  {
+    "ref": "ans_fa9a2e1e-db2c-4f12-a7ed-9ef684f1452d",
+    "keyword": "ans_3926b406-c178-4cd0-8102-265fe90eaf31",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "f1c442d9d465b91609fb70b4b0ef100a",
+    "from": "573206763335"
+  },
+  {
+    "ref": "9b34400f-9682-4c1a-906b-ab0d1b039e65",
+    "keyword": null,
+    "answer": "👌 Entendido. Aquí estoy si cambias de idea.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573206763335",
+    "refSerialize": "933fb5a7a3f3cccaacdc31fdc8fa6464"
+  },
+  {
+    "ref": "cd38e04b-f9c7-47c2-8fac-e4377b56510a",
+    "keyword": "f1c442d9d465b91609fb70b4b0ef100a",
+    "answer": "Hola",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "keyword": "key_56cbe448-e4f0-46d6-9e22-b9d3c6ed75fc",
+    "answer": "☀️ ¡Hola! Soy Lety, tu asistente del Soporte Fotovoltaico de Energitel. ¿En qué puedo ayudarte? 🤖. 📢También puedes conocernos más y seguir nuestras novedades en:\n 📸Instagram: https://acortar.link/#google_vignette\n 🌐Facebook: https://acortar.link/MyfnS5\n ▶️YouTube: https://www.youtube.com/@energitels.a.s235\n 🖥️Sitio web: https://energitelsolar.com/ 💼LinkedIn: https://www.linkedin.com/in/energitel-s-a-s-360b0814a/",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "9b45b2fd787eaa3a97b005192e9a5290",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "keyword": "ans_844059e2-34fa-402a-baf3-5254ecff2a33",
+    "answer": "Por favor selecciona una opción: \n1. 🌞 Soporte Técnico por fallas en inversores  \n2. 💼 Área Comercial, Cotizaciones, productos y asesoría personalizada  \n3. 📞 Telecomunicaciones, Servicios, soporte y consultas técnicas  \n4. 🔧 Agendar Mantenimiento",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "0342247350d54f4c26b4a1c25a73f47e",
+    "from": "573206763335"
+  },
+  {
+    "ref": "19015944-e7b3-4836-af84-3033cbceb988",
+    "keyword": "0342247350d54f4c26b4a1c25a73f47e",
+    "answer": "2",
+    "options": {},
+    "from": "573206763335",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_4f4c66c0-8a4a-4536-98ec-ff6fe57b5d54",
+    "keyword": "ans_45120d93-ad25-426b-bae9-cddf9310736b",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0b5e7d9d4c5bec305f97d5209b6ab667",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_9b50da13-2eb4-44e1-a3b1-8782c0fc29f8",
+    "keyword": "key_be8eaca4-2148-4956-8058-4ba72ca9f9a7",
+    "answer": "👉 Atención Comercial: https://wa.link/bgxxfy",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "44469ada9350f0c8aff49484f80abc32",
+    "from": "573206763335"
+  },
+  {
+    "ref": "ans_4be1b17a-4510-477f-af03-a4fbe694b46f",
+    "keyword": "ans_9b50da13-2eb4-44e1-a3b1-8782c0fc29f8",
+    "answer": "🔙 Escribe \"hola\" para volver al inicio.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": true,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "2f24b38c2c94cf53ae229bdf11dfe56b",
+    "from": "573206763335"
+  }
+]
